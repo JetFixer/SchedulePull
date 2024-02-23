@@ -1,2 +1,2 @@
 @echo off
-start powershell D:\Code\ShedulePull\SchedulePull.ps1
+start powershell .\SchedulePull.ps1
